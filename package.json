@@ -1,7 +1,7 @@
 {
   "name": "notion-backup-forked",
-  "version": "1.4.1",
-  "description": "Notion exporter meant to be used as part of a GitHub workflow",
+  "version": "1.0.0",
+  "description": "Notion exporter meant to be used as part of a GitHub workflow, customized by getLaw",
   "main": "./notion-backup.js",
   "bin": {
     "notion-backup-forked": "./notion-backup.js",
@@ -14,7 +14,7 @@
   "eslintConfig": {
     "extends": "robin"
   },
-  "author": "Robin Berjon <robin@berjon.com>",
+  "author": "Thorsten Dorn <entwicklung@getlaw.de>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/getLaw/notion-backup-forked/issues"
